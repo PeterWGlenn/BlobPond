@@ -1,0 +1,1 @@
+Blob Pond is a Java program that simulates the evolution of a colony of organisms that reproduce through binary fission. Successful organisms pass on their genes to their children. Over time, they learn to share resources while avoiding overpopulation and disease. 
